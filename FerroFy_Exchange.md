@@ -1,6 +1,6 @@
 # 💰 Exchange FerroFy Crypto Liquidity Pool Transactions
 
-## Transaction Details 🪙📊
+## Transaction Details 📊
 | 📅 Date        | 🛒 Action   | 📛 Name | 💵 SWEAT   | 💰 Price Per SWEAT | 🧾 Buy Price Per SWEAT | 🌟 Profit |
 |----------------|-------------|---------|------------|--------------------|------------------------|-----------|
 | 14 Feb 2025    | Sold        | ATX     | 8.53       | 0.62               | 0.61                   | 0.09      |
