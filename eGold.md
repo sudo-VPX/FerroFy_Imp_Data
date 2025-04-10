@@ -11,7 +11,7 @@
 ---
 
 ## Total Summary 📊💸
-- **🌟 Total eGold Quantity:** 18.6 mg 🏆
+- **🌟 Total eGold Quantity:** 18.6 mg or 0.0186 g 🏆
 - **💵 Total Value Invested:** ₹182.5 💰
 - **🧾 Total Tax Paid:** ₹5.31 💸
 - **💰 Actual Value Purchased:** ₹170.65 ✨
