@@ -1,7 +1,6 @@
 # 💰 FerroFy x VPX SWEAT Supply 
 
-**Total Supplied:** 0  
-**Total Pending SWEAT:** 1605.53 SWEAT  
+**Total Supplied:** 0 
 
 ---
 
