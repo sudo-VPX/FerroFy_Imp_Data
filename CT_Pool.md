@@ -92,3 +92,30 @@ It Is Upgraded Version of FerroFy Plans 0xfy Where Investor have two options:
   - Avg Fees
 - Merge Their Investments in Pool With FerroFy ~ Min Fees:
   - Min Fees
+
+---
+
+## Pool Plans
+
+### Plan 1 {Collecting Funds Yet}
+
+| Name     | Investments | Shares    |
+|----------|-------------|-----------|
+| VPX      | *89* 🐋     | *xx %*    |
+| FerroFy  |     *32* 🐋 | *xx %*    |
+
+---
+
+## Solo Plans 
+
+
+
+
+
+
+
+
+
+
+
+
