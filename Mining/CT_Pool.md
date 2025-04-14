@@ -102,7 +102,7 @@ It Is Upgraded Version of FerroFy Plans 0xfy Where Investor have two options:
 | Name     | Investments | Shares    |
 |----------|-------------|-----------|
 | VPX      | *89* 🐋     | *xx %*    |
-| FerroFy  |     *32* 🐋 | *xx %*    |
+| FerroFy  |     *122* 🐋 | *xx %*    |
 
 ---
 
