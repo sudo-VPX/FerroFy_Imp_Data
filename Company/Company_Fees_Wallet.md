@@ -23,5 +23,7 @@
 | 🗓 14 Apr 25 | ➕  | 💳 Fee - VPX Breaking Gold Promise | 🏦 VPX    | ₹ 100     |
 | 🗓 15 Apr 25 | ➖  | 🎉 Self Investment               | 🏦 FerroFy | ₹ 100     |
 | 🗓 15 Apr 25 | ➕  | 💳 Fee                             | 🏦 VPX    | ₹ 10      |
+| 🗓 17 Apr 25 | ➕  | 💳 Fee                             | 🏦 ASX    | ₹ 2      |
 
-**🔢 Total Balance: ₹ 47.16**
+
+**🔢 Total Balance: ₹ 49.16**
