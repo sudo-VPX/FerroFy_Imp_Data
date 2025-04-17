@@ -95,6 +95,8 @@ It is Upgraded Version Of Test Phase Where Investments are setteled In Ferrofy A
 |----------|-------------|-----------|
 | VPX      | 554 🐋     |  %    |
 | FerroFy  |     122  |  %    |
+| ASX 🔥   |     40  |  %    |
+
 
 ---
 
