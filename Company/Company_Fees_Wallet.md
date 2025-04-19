@@ -24,8 +24,10 @@
 | 🗓 15 Apr 25 | ➖  | 🎉 Self Investment               | 🏦 FerroFy | ₹ 100     |
 | 🗓 15 Apr 25 | ➕  | 💳 Fee                             | 🏦 VPX    | ₹ 10      |
 | 🗓 17 Apr 25 | ➕  | 💳 Fee                             | 🏦 ASX    | ₹ 2      |
-| 🗓 17 Feb 25 | ➕  | 💧 Liquidity  | 🏦 ATX   | ₹ 0.05    |
-| 🗓 17 Feb 25 | ➕  | 💧 Liquidity  | 🏦 VPX   | ₹ 0.05    |
+| 🗓 17 Apr 25 | ➕  | 💧 Liquidity  | 🏦 ATX   | ₹ 0.05    |
+| 🗓 17 Apr 25 | ➕  | 💧 Liquidity  | 🏦 VPX   | ₹ 0.05    |
+| 🗓 19 Apr 25 | ➕  | 💧 Liquidity  | 🏦 VPX   | ₹ 2    |
+| 🗓 19 Apr 25 | ➖  | 🎉 Self Investment  | 🏦 FerroFy   | ₹ 52    |
 
 
-**🔢 Total Balance: ₹ 49.26**
+**🔢 Total Balance: ₹ 0**
