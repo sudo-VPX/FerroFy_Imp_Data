@@ -89,11 +89,12 @@ It is Upgraded Version Of Test Phase Where Investments are setteled In Ferrofy A
 | VPX      | 1654 🐋     | 93 %     |
 | FerroFy  |     122   | 7 %      |
 
-## 🌟 Final Phase 3 FerroFy ~ 15 April 2024
+## 🌟 Final Phase 3 FerroFy ~ Starting Soon
 
 | Name     | Investments | Shares    |
 |----------|-------------|-----------|
-| VPX      | 1674 🐋     |  %    |
+| VPX      | 1674 🐋     |  %    
+| MBX      |     170  |  %    |
 | FerroFy  |     162  |  %    |
 | ASX 🔥   |     40  |  %    |
 
