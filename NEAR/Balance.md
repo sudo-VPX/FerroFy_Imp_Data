@@ -1,6 +1,6 @@
-# ✨ FerroFy NEAR Investments Record 💎  
+# FerroFy NEAR Investments Record 💎
 
-## 📅 Buy Details
+## Buy Details
 
 ### Mar 25
 | 🕒 Time & Date   | 🤝 Person | 💵 INR |
@@ -20,24 +20,23 @@
 | **10 Apr 25**    | 🏢 VPX   | ₹11    |
 | **17 Apr 25**    | 🏢 ASX   | ₹3     |
 | **19 Apr 25**    | 🏢 VPX   | ₹1     |
+| **20 Apr 25**    | 🏢 MBX   | ₹4     |
 
-**Total:** ₹31
+**Total:** ₹35
 
----
+## Top NEAR Investor
 
-## 🏆📊💸 Top NEAR Investor
+| 🏅 Rank  | 🤝 Person | 💵 Total Investment | % Share (up to 2 decimals) | 🏅 Badge      |
+|----------|-----------|---------------------|----------------------------|--------------|
+| **🥇 1** | 🏢 KRX   | ₹500                | 65.36%                     | 🐋 **Whale** |
+| **🥈 2** | 🏢 PiPX  | ₹120                | 15.69%                     | 🐋 **Whale** |
+| **🥉 3** | 🏢 PPX   | ₹110                | 14.38%                     | 🦈 **Shark** |
+| **4**    | 🏢 VPX   | ₹28                 | 3.66%                      | 🦈 **Shark** |
+| **5**    | 🏢 MBX   | ₹4                  | 0.52%                      | 🐟 **Fish**  |
+| **6**    | 🏢 ASX   | ₹3                  | 0.39%                      | 🐟 **Fish**  |
 
-| 🏅 Rank | 🤝 Person | 💵 Total Investment | % Share (up to 2 decimals) | 🏅 Badge      |
-|---------|-----------|---------------------|----------------------------|--------------|
-| **🥇 1** | 🏢 KRX   | ₹500                | 65.72%                     | 🐋 **Whale** |
-| **🥈 2** | 🏢 PiPX  | ₹120                | 15.77%                     | 🐋 **Whale** |
-| **🥉 3** | 🏢 PPX   | ₹110                | 14.44%                     | 🦈 **Shark** |
-| **4**   | 🏢 VPX   | ₹28                 | 3.68%                      | 🦈 **Shark** |
-| **5**   | 🏢 ASX   | ₹3                  | 0.39%                      | 🐟 **Fish**  |
+## Total Summary
 
----
-
-## 📊💸 Total Summary
-- **Total Investment:** 🏆 **₹761**
-- **Total Invested:** 🏆 **₹30.92**
-- **Balance Remaining To Invest:** **₹730.08**
+- **Total Investment:** ₹765
+- **Total Invested:** ₹30.92
+- **Balance Remaining To Invest:** ₹734.08
