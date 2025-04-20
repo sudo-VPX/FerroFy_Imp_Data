@@ -28,6 +28,8 @@
 | 🗓 17 Apr 25 | ➕  | 💧 Liquidity  | 🏦 VPX   | ₹ 0.05    |
 | 🗓 19 Apr 25 | ➕  | 💧 Liquidity  | 🏦 VPX   | ₹ 2    |
 | 🗓 19 Apr 25 | ➖  | 🎉 Self Investment  | 🏦 FerroFy   | ₹ 52    |
+| 🗓 20 Apr 25 | ➕  | 💳 Fee                             | 🏦 MBX    | ₹ 5      |
 
 
-**🔢 Total Balance: ₹ 0**
+
+**🔢 Total Balance: ₹ 5**
