@@ -1,6 +1,6 @@
 # 💰💹 FerroFy x VPX NEAR Chain Coins & Tokens Supply 🚀✨
 
-**⚡ Total Supplied (SWEAT):** 💵 65.21  
+**⚡ Total Supplied (SWEAT):** 💵 89.84  
 **⚡ Total Supplied (NEAR):** 💎 0.04908  
 
 ---
@@ -12,6 +12,8 @@
 |----------------|----------------|--------------------|----------------|
 | 📆 10 April 25 | ✅ 40.14       | 💸 0.34            | ₹ 13.84        |
 | 📆 17 April 25 | ✅ 25.07       | 💸 0.33            | ₹ 8.27         |
+| 📆 29 April 25 | ✅ 24.63       | 💸 0.41            | ₹ 10.09         |
+
 
 ### 🌌 NEAR 💎
 | 📅 Date        | 🧾 Total Buy   | 💰 Price Per NEAR  | 💵 In Rs Price |
