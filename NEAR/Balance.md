@@ -38,5 +38,5 @@
 ## Total Summary
 
 - **Total Investment:** ₹765
-- **Total Invested:** ₹30.92
-- **Balance Remaining To Invest:** ₹734.08
+- **Total Invested:** ₹41.01
+- **Balance Remaining To Invest:** ₹723.99
