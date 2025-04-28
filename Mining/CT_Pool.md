@@ -94,8 +94,8 @@ It is Upgraded Version Of Test Phase Where Investments are setteled In Ferrofy A
 | Name     | Investments | Shares    |
 |----------|-------------|-----------|
 | VPX      | 1674 🐋     |  %    
-| MBX      |     170  |  %    |
-| FerroFy  |     162  |  %    |
+| MBX  🔥 |     170  |  %    |
+| FerroFy  |     184  |  %    |
 | ASX 🔥   |     40  |  %    |
 
 
@@ -118,5 +118,3 @@ It Is Upgraded Version of FerroFy Plans 0xf Where Investor have two options:
 ---
 
 ## Solo Plans - Comming Soon
-
-
