@@ -38,35 +38,35 @@ It Is Test Phase to Test The Investments
 ## 🌟 Phase 2 ~ 19 Feb 2025
 | Name   | Investments | Shares     |
 |--------|-------------|------------|
-| Tanav  | 1000 🐋   | 42.5 %   |
-| VPX    | 1000 🐋   | 42.5 %   |
-| PPX    | 200 🔥🐋  | 8.5 %    |
-| AKX    | 80        | 3.5 %    |
-| KMX    | 20        | 0.5 %    |
-| Angle  | 60        | 2.5 %    |
+| VPX    | 1390 🐋    | 59 %       |
+| Tanav  | 610 🐋     | 26 %       |
+| PPX    | 200 🔥🐋   | 8.5 %     |
+| AKX    | 80          | 3.5 %     |
+| Angle  | 60          | 2.5 %     |
+| KMX    | 20          | 0.5 %     |
 
 ---
 
 ## 🌟 Phase 3 {Final Phase} ~ 7 Mar 2025
 | Name   | Investments | Shares     |
 |--------|-------------|------------|
-| Tanav  | 1430 🐋   | 40.25 %  |
-| VPX    | 1430 🐋   | 40.25 %  |
-| PPX    | 510 🐋    | 14.25 %  |
-| Angle  | 90        | 2.5 %    |
-| AKX    | 80        | 2.25 %   |
-| KMX    | 20        | 0.5 %    |
+| VPX    | 2250 🐋     | 63.25 %   |
+| Tanav  | 610 🐋      | 17.25 %   |
+| PPX    | 510 🐋      | 14.25 %   |
+| Angle  | 90          | 2.5 %     |
+| AKX    | 80          | 2.25 %    |
+| KMX    | 20          | 0.5 %     |
 
 ## 🌟 Extra Test Phase Rule 1 ~ 9 April 2025
 |      Name    | Investments | Shares    |
 |--------------|-------------|-----------|
-| Tanav  🐋  | 1430      | 40 %    |
-| VPX    🐋  | 1430      | 40 %    |
-| PPX     🐋 | 510       | 14 %    |
-| Angle        | 90        | 2.5 %   |
-| AKX        | 80        | 2 %     |
-| KMX          | 20        | 0.5 %   |
-| FerroFy      |             | 1 %     |
+| VPX    🐋   | 2250        | 63 %      |
+| Tanav  🐋   | 610         | 17 %      |
+| PPX     🐋  | 510         | 14 %      |
+| Angle        | 90         | 2.5 %     |
+| AKX          | 80         | 2 %       |
+| KMX          | 20         | 0.5 %     |
+| FerroFy      |            | 1 %       |
 
 Rule - The 0.25 shares in Last Will be Added to FerroFy To Maintain A Good Math Ratio In Exchange User Will Get Some Extra Profit Might Be Some Ferro Coin In Future
 
