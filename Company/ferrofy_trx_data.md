@@ -90,8 +90,14 @@
 
 ### 📊 Investment Statistics  
 
+### 📊 Investment Statistics  
+
 #### 🏆 **Mean Investment** → ₹609.08  
-#### 📏 **Median Investment** → ₹223 
+#### 📏 **Median Investment** → ₹223  
+#### 🎯 **Mode Investment** → ₹500 {2️⃣ Times By KRX, DVX}  
+#### 📊 **Range** → ₹4,248  
+#### 🔢 **( Min , Max )** → ( ₹20 , ₹4268 )  
+
 
 ---
 
