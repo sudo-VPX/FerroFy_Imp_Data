@@ -91,13 +91,16 @@ It is Upgraded Version Of Test Phase Where Investments are setteled In Ferrofy A
 
 ## 🌟 Final Phase 3 FerroFy ~ Starting Soon
 
-| Name     | Investments | Shares    |
-|----------|-------------|-----------|
-| VPX      | 1674 🐋     |  %    
-| MBX  🔥 |     170  |  %    |
-| FerroFy  |     184  |  %    |
-| ASX 🔥   |     40  |  %    |
+| Name     | Investments | Shares      |
+|----------|------------|------------|
+| VPX      | 1848 🐋     | 68.75%     |
+| DVX 🔥   | 430        | 16.00%     |
+| FerroFy  | 184        | 7%      |
+| MBX  🔥  | 184        | 6.75%      |
+| ASX 🔥   | 40         | 1.50%      |
 
+
+**Note** - Shares Can Change As Investment Increase 
 
 ---
 
