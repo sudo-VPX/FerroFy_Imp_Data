@@ -88,9 +88,7 @@
 
 ---
 
-### 📊 Investment Statistics  
-
-### 📊 Investment Statistics  
+### 📊 Investment Statistics   
 
 #### 🏆 **Mean Investment** → ₹609.08  
 #### 📏 **Median Investment** → ₹223  
