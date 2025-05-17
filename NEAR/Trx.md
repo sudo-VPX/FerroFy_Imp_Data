@@ -17,8 +17,4 @@
 - **📆 Earn Rate Yearly:** ⏱️ 5.20344
 
 ---
-
-# 💼 Remaining Balances 💎✨
-- **SWEAT:** 💵 1.50  
-- **NEAR:** 💎 0.215247 
 - **Wallet Address:** 48df50b2381a17feccef0012ae575b75f23cd949938791496d7438a357118589
