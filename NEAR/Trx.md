@@ -6,30 +6,15 @@
 | 📆 11 April 25 | 💵 12.04             |
 | 📆 17 April 25 | 💵 7.52              |
 | 📆 29 April 25 | 💵 7.38              |
+| 📆 11 May 25   | 💵 10.96             |
+| 📆 15 May 25   | 💵 5.5               |
 
-- **🔒 Total SWEAT Locked:** 💵 37.88  
-- **⏳ Earn Rate Per Hour:** ⏱️ 0.000519  
-- **📆 Earn Rate Per Day:** ⏱️ 0.012456
-- **📅 Earn Rate Per Week:** ⏱️ 0.087192 
-- **📆 Earn Rate Per Month (30 Days):** ⏱️ 0.37368
-- **📆 Earn Rate Yearly:** ⏱️ 4.54644
-
----
-## 🔄 Swap Transaction ♻️💱
-| 📅 Date        | 🏷️ Sold Token  | 💸 Bought Token   | ⛽ Gas Fees       |
-|----------------|----------------|-------------------|------------------|
-| 📆 11 April 25 | SWEAT (25.26)  | NEAR (0.050011 )       |  0.63 SWEAT     |
-| 📆 17 April 25 | SWEAT (18)  | NEAR (0.034703)         |  Nil    |
-| 📆 29 April 25 | SWEAT (18)  | NEAR (0.033421)         |  Nil    |
-| 📆 15 May 25   | SWEAT (26.5)  | NEAR (0.04211266)      |  Nil    |
-
-
----
-
-## 🔄 Liquidity ♻️💱
-| 📅 Date        | 🏷️ Token 1 | 🏷️ Token 1   | ⛽ Gas Fees       |
-|----------------|-------------|--------------|-------------------|
-| 📆             |             |              |                   |
+- **🔒 Total SWEAT Locked:** 💵 43.38 
+- **⏳ Earn Rate Per Hour:** ⏱️ 0.000594
+- **📆 Earn Rate Per Day:** ⏱️ 0.014256
+- **📅 Earn Rate Per Week:** ⏱️ 0.099792
+- **📆 Earn Rate Per Month (30 Days):** ⏱️ 0.42768
+- **📆 Earn Rate Yearly:** ⏱️ 5.20344
 
 ---
 
